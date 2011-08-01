@@ -1,9 +1,118 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>BTC Trader homepage</title>
+<title>BTC Trader</title>
+<link rel="shortcut icon" href="favicon.ico">
+<style>
+body {
+background: gray;
+color: black;
+}
+a {
+color: gray;
+}
+a:visited {
+color: gray;
+}
+#wrapper {
+min-width: 800px;
+max-width: 1024px;
+margin: auto;
+padding: 0;
+font-family: sans-serif;
+}
+#container {
+background: white;
+border-radius: 10px;
+overflow: hidden;
+}
+#logo {
+margin: 0;
+padding: 0;
+height: 180px;
+background: url(img/logo.png) -40px -30px no-repeat;
+}
+.content {
+margin: 0 1em;
+}
+.content h1 {
+margin: 0 0 0.5em;
+border-top: 1px solid;
+border-bottom: 1px solid;
+}
+p.features {
+margin: 1em 0 0 0; padding: 0;
+}
+ul.features {
+margin: 0 0 1em 0;
+padding: 0 0 0 1em;
+}
+.download dt {
+margin: 0 0 1em 0;
+float: left;
+width: 48px;
+}
+.download dd {
+margin: 0 1em 1em 0.5em;
+float: left;
+min-width: 180px;
+}
+#footer {
+padding: 0 1em;
+color: white;
+}
+#footer a {
+color: white;
+}
+#footer a:visited {
+color: white;
+}
+#footer #donate {
+display: block;
+float: right;
+}
+</style>
 </head>
 <body>
-<h1>It works!</h1>
+<div id="wrapper">
+
+<div id="container">
+
+<div id="logo">
+<a href="http://github.com/btc-trader/btc-trader"><img style="float: right;" src="https://a248.e.akamai.net/assets.github.com/img/71eeaab9d563c2b3c590319b398dd35683265e85/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub"></a>
+</div>
+
+<div class="content">
+<h1>About</h1>
+<div style="float: right; margin: 0 0 0 0.5em"><a href="img/scrn-01.png"><img src="img/thmb-01.png" alt="Screenshot" title="Click to expand" /></a></div>
+<div style="min-height: 220px">
+<p><strong>BTC Trader</strong> &mdash; is <a href="http://bitcoin.org">bitcoin</a>-focused opensource charting, technical analysis and trading application built on top of the <a href="http://chartsy.org">Chartsy</a> and <a href="http://netbeans.org">NetBeans</a> platforms.</p>
+<p class="features"><strong>Latest version 1.4.1.1</strong> includes:</p>
+<ul class="features">
+<li>Live data feed from <a href="http://bitcoincharts.com">bitcoincharts.com</a></li>
+<li>Daily data feed from <a href="http://finance.yahoo.com">Yahoo Finance</a></li>
+<li>Rich collection of technical-analysis tools</li>
+<li>Facebook and Twitter integration</li>
+</ul>
+<p>BTC Trader is absolutely open and free of charge and licensed under the terms of the GNU General Public Licence of version 2.</p>
+</div>
+</div>
+
+<div class="content">
+<h1>Download</h1>
+<dl class="download">
+<dt><a href="dist/btctrader-windows.exe"><img src="win.png" alt="Windows" title="BTC Trader 1.4.1.1 for Windows" /></a><br>6.7&nbsp;MB</dt><dd><a href="dist/btctrader-windows.exe">btctrader-windows.exe</a><br>(<a href="dist/btctrader-windows.exe.md5">md5</a>)&nbsp;(<a href="dist/btctrader-windows.exe.sha256">sha256</a>)&nbsp;(<a href="dist/btctrader-windows.exe.sig">gpg</a>)</dd>
+<dt><a href="dist/btctrader-linux.sh"><img src="lin.png" alt="Linux" title="BTC Trader 1.4.1.1 for Linux" /></a><br>6.4&nbsp;MB</dt><dd><a href="dist/btctrader-linux.sh">btctrader-linux.sh</a><br>(<a href="dist/btctrader-linux.sh.md5">md5</a>)&nbsp;(<a href="dist/btctrader-linux.sh.sha256">sha256</a>)&nbsp;(<a href="dist/btctrader-linux.sh.sig">gpg</a>)</dd>
+<dt><a href="dist/btctrader-macosx.exe"><img src="mac.png" alt="Mac" title="BTC Trader 1.4.1.1 for Mac OS X" /></a><br>6.2&nbsp;MB</dt><dd><a href="dist/btctrader-macosx.tgz">btctrader-macosx.tgz</a><br>(<a href="dist/btctrader-macosx.tgz.md5">md5</a>)&nbsp;(<a href="dist/btctrader-macosx.tgz.sha256">sha256</a>)&nbsp;(<a href="dist/btctrader-macosx.tgz.sig">gpg</a>)</dd>
+</dl>
+</div>
+
+</div>
+
+<div id="footer">
+<p>&copy;2011 <a href="http://btc-trader.org">btc-trader.org</a> by <a href="mailto:bitcoinfreak@gmail.com">coinfreak</a> <span id="donate">1PcR6CVV2fScHH2VsGpzAmcKqMT3ux62De</span></p>
+</div>
+
+</div>
 </body>
 </html>
