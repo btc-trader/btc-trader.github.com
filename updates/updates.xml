@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
-<module_updates timestamp="24/28/21/10/09/2011">
+<module_updates timestamp="14/51/21/20/09/2011">
 
 
 <module_group name="Annotation">
@@ -381,8 +381,8 @@
     
 </module>
 
-<module codenamebase="org.chartsy.main" distribution="org-chartsy-main.nbm" downloadsize="306160" global="true" homepage="http://www.chartsy.org" license="AB6F3945" moduleauthor="MrSwing.com" needsrestart="true" releasedate="2011/09/11" targetcluster="btctrader">
-    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.chartsy.main" OpenIDE-Module-Display-Category="Main" OpenIDE-Module-Implementation-Version="110910" OpenIDE-Module-Java-Dependencies="Java &gt; 1.5" OpenIDE-Module-Long-Description="This is the main module. Here is the core of the application." OpenIDE-Module-Module-Dependencies="org.chartsy.commonshttpclient &gt; 1.3.0, org.chartsy.facebookapi &gt; 2.1.0, org.chartsy.swingx &gt; 1.0, org.chartsy.twitpicapi &gt; 4.0, org.netbeans.api.progress/1 &gt; 1.20.1, org.netbeans.core.output2/1 &gt; 1.18.1, org.netbeans.modules.core.kit &gt; 1.8.1, org.netbeans.modules.options.api/1 &gt; 1.18.1, org.netbeans.modules.print &gt; 7.5.1, org.netbeans.modules.settings/1 &gt; 1.26.1, org.netbeans.swing.tabcontrol &gt; 1.21.1, org.openide.actions &gt; 6.16.1, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.15.1, org.openide.explorer &gt; 6.28.1, org.openide.filesystems &gt; 7.38.1, org.openide.loaders &gt; 7.16.1, org.openide.modules &gt; 7.17.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1" OpenIDE-Module-Name="Main" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Main Module" OpenIDE-Module-Specification-Version="1.4.2"/>
+<module codenamebase="org.chartsy.main" distribution="org-chartsy-main.nbm" downloadsize="307066" global="true" homepage="http://www.chartsy.org" license="AB6F3945" moduleauthor="MrSwing.com" needsrestart="true" releasedate="2011/09/20" targetcluster="btctrader">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.chartsy.main" OpenIDE-Module-Display-Category="Main" OpenIDE-Module-Implementation-Version="110920" OpenIDE-Module-Java-Dependencies="Java &gt; 1.5" OpenIDE-Module-Long-Description="This is the main module. Here is the core of the application." OpenIDE-Module-Module-Dependencies="org.chartsy.commonshttpclient &gt; 1.3.0, org.chartsy.facebookapi &gt; 2.1.0, org.chartsy.swingx &gt; 1.0, org.chartsy.twitpicapi &gt; 4.0, org.netbeans.api.progress/1 &gt; 1.20.1, org.netbeans.core.output2/1 &gt; 1.18.1, org.netbeans.modules.core.kit &gt; 1.8.1, org.netbeans.modules.options.api/1 &gt; 1.18.1, org.netbeans.modules.print &gt; 7.5.1, org.netbeans.modules.settings/1 &gt; 1.26.1, org.netbeans.swing.tabcontrol &gt; 1.21.1, org.openide.actions &gt; 6.16.1, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.15.1, org.openide.explorer &gt; 6.28.1, org.openide.filesystems &gt; 7.38.1, org.openide.loaders &gt; 7.16.1, org.openide.modules &gt; 7.17.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.1, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1" OpenIDE-Module-Name="Main" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Main Module" OpenIDE-Module-Specification-Version="1.4.3"/>
     
 </module>
 
